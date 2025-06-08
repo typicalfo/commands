@@ -31,10 +31,6 @@ Generate a standardized status update showing:
 - Current task completion percentage
 - Overall project completion percentage
 
-## Usage
-
-These commands are designed to be used with [Claude Code](https://docs.anthropic.com/en/docs/claude-code). Simply reference the command file when working with Claude Code to execute the corresponding workflow.
-
 ## Contributing
 
 Feel free to submit additional commands that follow the established pattern of concise, actionable development workflows.
